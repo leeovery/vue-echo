@@ -1,0 +1,28 @@
+{
+  "name": "vue-echo",
+  "version": "0.1.0",
+  "description": "A convenient wrapper around Laravel Echo for expressive handlers in your VueJS2 projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeovery/vue-echo.git"
+  },
+  "keywords": [
+    "vue",
+    "nuxt",
+    "echo",
+    "laravel-echo",
+    "pusher",
+    "websockets",
+    "laravel"
+  ],
+  "author": "Lee Overy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeovery/vue-echo/issues"
+  },
+  "homepage": "https://github.com/leeovery/vue-echo#readme"
+}
